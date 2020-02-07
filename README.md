@@ -1,6 +1,3 @@
-# Coding-Challenge
-Building an excurions API that uses CRUD fundamentals.
-
 # API-coding-challenge
 
 Build an excurions API authenticated with JWT(JSON Web Tokens) that uses CRUD fundamentals. The API's are for a cruise excursions. Please create the APIs in Django(Python). Use permanent data storage in SQL(mySql). The [data.json](../master/data.json) file contains the data to use in the API. 
