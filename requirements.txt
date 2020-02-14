@@ -1,0 +1,14 @@
+asgiref==3.2.3
+autopep8==1.5
+Django==3.0.3
+django-mysql==3.3.0
+django-rest-auth==0.9.5
+djangorestframework==3.11.0
+djangorestframework-jwt==1.11.0
+mysqlclient==1.4.6
+pycodestyle==2.5.0
+PyJWT==1.7.1
+python-dotenv==0.11.0
+pytz==2019.3
+six==1.14.0
+sqlparse==0.3.0
