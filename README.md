@@ -18,3 +18,16 @@ Build an excurions API authenticated with JWT(JSON Web Tokens) that uses CRUD fu
 ## Bonuses
 
 - Add UI interface to the APIs
+
+
+
+### .env example
+
+```
+HOST=<db-host>
+USER=<db-user>
+NAME=<db-name>
+PASSWORD=<db-password>
+PORT=<db-port>
+SECRET=<app-secret>
+```
